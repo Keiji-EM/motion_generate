@@ -1,3 +1,4 @@
+# This program tests whether learning is taking place.
 from pathlib import Path
 
 import numpy as np
