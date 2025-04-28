@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/4929af2e-655b-48f0-bd01-4d56aede173d
 
 ---
 
-## 使用技術・ライブラリ
+## 使用ライブラリ
 
 - Python 3.11
 - PyTorch 2.0.1
