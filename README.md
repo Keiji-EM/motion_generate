@@ -13,7 +13,8 @@ https://github.com/user-attachments/assets/4929af2e-655b-48f0-bd01-4d56aede173d
 また、**動的時間伸縮法（Dynamic Time Warping：DTW）**を用いて、
 生成モーションと実際のスイングデータの顕似度を定量・定性的に評価し、補正指標を提示します。
 
-![dtw_full_comparison_with_lines](https://github.com/user-attachments/assets/21bcf0e0-4bf1-4878-a5fe-4d31c13a15fc)
+![dtw_readme_ready](https://github.com/user-attachments/assets/04d560cb-de36-473c-ac97-ac46a6738ffa)
+
 
 ---
 
