@@ -77,5 +77,4 @@ https://github.com/user-attachments/assets/4929af2e-655b-48f0-bd01-4d56aede173d
 ## 著者
 
 東京工科大学 バイオ・情報メディア研究科 コンピュータサイエンス専攻：エムペラド ケイジ ノエル  
-指導教員：生野 壮一郎 教授
 
